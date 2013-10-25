@@ -1,0 +1,76 @@
+C:\Users\aaa\Videos\Sample\Bin\Debug\ApplicationIcon.png
+C:\Users\aaa\Videos\Sample\Bin\Debug\Background.png
+C:\Users\aaa\Videos\Sample\Bin\Debug\Sample.dll
+C:\Users\aaa\Videos\Sample\Bin\Debug\Sample.pdb
+C:\Users\aaa\Videos\Sample\Bin\Debug\AppManifest.xaml
+C:\Users\aaa\Videos\Sample\Bin\Debug\Sample.xap
+C:\Users\aaa\Videos\Sample\Bin\Debug\App42_WINDOWS_SDK_0.8.0.dll
+C:\Users\aaa\Videos\Sample\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\aaa\Videos\Sample\Bin\Debug\App42_WINDOWS_SDK_0.8.0.pdb
+C:\Users\aaa\Videos\Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aaa\Videos\Sample\obj\Debug\App.g.i.cs
+C:\Users\aaa\Videos\Sample\obj\Debug\MainPage.g.i.cs
+C:\Users\aaa\Videos\Sample\obj\Debug\Sample.g.resources
+C:\Users\aaa\Videos\Sample\obj\Debug\Sample.dll
+C:\Users\aaa\Videos\Sample\obj\Debug\Sample.pdb
+C:\Users\aaa\Videos\Sample\obj\Debug\XapCacheFile.xml
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\ApplicationIcon.png
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\Background.png
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\Sample.dll
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\Sample.pdb
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\AppManifest.xaml
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\Sample.xap
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\App42_WINDOWS_SDK_0.8.1.1.dll
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+E:\app42_windows_beta_0.8.0\Sample\Bin\Debug\App42_WINDOWS_SDK_0.8.1.1.pdb
+E:\app42_windows_beta_0.8.0\Sample\obj\Debug\ResolveAssemblyReference.cache
+E:\app42_windows_beta_0.8.0\Sample\obj\Debug\App.g.i.cs
+E:\app42_windows_beta_0.8.0\Sample\obj\Debug\MainPage.g.i.cs
+E:\app42_windows_beta_0.8.0\Sample\obj\Debug\Sample.g.resources
+E:\app42_windows_beta_0.8.0\Sample\obj\Debug\Sample.dll
+E:\app42_windows_beta_0.8.0\Sample\obj\Debug\Sample.pdb
+E:\app42_windows_beta_0.8.0\Sample\obj\Debug\XapCacheFile.xml
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\obj\Debug\App.g.cs
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\obj\Debug\GameEntry.g.cs
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\obj\Debug\LeaderBoard.g.cs
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\obj\Debug\Sample.g.resources
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\obj\Debug\Sample.dll
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\obj\Debug\Sample.pdb
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\Bin\Debug\ApplicationIcon.png
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\Bin\Debug\Background.png
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\Bin\Debug\Sample.dll
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\Bin\Debug\Sample.pdb
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\Bin\Debug\AppManifest.xaml
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\Bin\Debug\Sample.xap
+C:\Users\shep hertz\Downloads\app42_windows_1.7\Sample\obj\Debug\XapCacheFile.xml
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\ApplicationIcon.png
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\Background.png
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\Sample.dll
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\Sample.pdb
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\AppManifest.xaml
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\Sample.xap
+D:\@Git_Master\app42_windows_1.7\Sample\obj\Debug\App.g.i.cs
+D:\@Git_Master\app42_windows_1.7\Sample\obj\Debug\GameEntry.g.i.cs
+D:\@Git_Master\app42_windows_1.7\Sample\obj\Debug\LeaderBoard.g.i.cs
+D:\@Git_Master\app42_windows_1.7\Sample\obj\Debug\Sample.g.resources
+D:\@Git_Master\app42_windows_1.7\Sample\obj\Debug\Sample.dll
+D:\@Git_Master\app42_windows_1.7\Sample\obj\Debug\Sample.pdb
+D:\@Git_Master\app42_windows_1.7\Sample\obj\Debug\XapCacheFile.xml
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\App42_WINDOWS_API_1.8.dll
+D:\@Git_Master\app42_windows_1.7\Sample\Bin\Debug\App42_WINDOWS_API_1.8.pdb
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\ApplicationIcon.png
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\Background.png
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\Sample.dll
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\Sample.pdb
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\AppManifest.xaml
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\Sample.xap
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\App42_WINDOWS_API_1.8.dll
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\Bin\Debug\App42_WINDOWS_API_1.8.pdb
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\App.g.i.cs
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\GameEntry.g.i.cs
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\LeaderBoard.g.i.cs
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\Sample.g.resources
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\Sample.dll
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\Sample.pdb
+C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\XapCacheFile.xml
