@@ -53,14 +53,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="App42_WINDOWS_API_1.8">
-      <HintPath>E:\gitProject\App42_WINDOWS_API\App42_WINDOWS_API\Bin\Release\App42_WINDOWS_API_1.8.dll</HintPath>
-    </Reference>
+    <Reference Include="App42_WINDOWS_API_1.8, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Phone" />
     <Reference Include="Microsoft.Phone.Interop" />
-    <Reference Include="Newtonsoft.Json.WindowsPhone">
-      <HintPath>D:\xampp\htdocs\App42_WINDOWS_API\App42_WINDOWS_API\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll</HintPath>
-    </Reference>
+    <Reference Include="Newtonsoft.Json.WindowsPhone, Version=4.0.2.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
     <Reference Include="System.Windows" />
     <Reference Include="system" />
     <Reference Include="System.Core" />

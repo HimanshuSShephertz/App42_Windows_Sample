@@ -23,7 +23,7 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="DEMO APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="game entry" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Text=" Save Score Table"  FontSize="60" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
@@ -44,13 +44,15 @@
             <TextBlock Name="tblUname" Grid.Row="2" Grid.Column="0" Text="User Name" VerticalAlignment="Center" FontSize="26" HorizontalAlignment="Right" Margin="20,0,0,0" Foreground="White" MinWidth="100"></TextBlock>
             <TextBox Name="tbxUname" Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0" Foreground="Black" MinWidth="280"></TextBox>
             <TextBlock Name="tblScore" Grid.Row="3" Grid.Column="0" Text="Score" VerticalAlignment="Center" FontSize="26" HorizontalAlignment="Right" Margin="20,0,0,0" Foreground="White" MinWidth="100"></TextBlock>
-            <TextBox Name="tbxScore" Grid.Row="3" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0" Foreground="Black" MinWidth="280" InputScope="Number"></TextBox>
+            <TextBox Name="tbxScore" Grid.Row="3" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0" Foreground="Black" MinWidth="280"></TextBox>
+            <TextBlock Name="tblScoreId" Grid.Row="4" Text="Score Id" VerticalAlignment="Center" FontSize="26" HorizontalAlignment="Right" Margin="0,18,28,354" Foreground="White" MinWidth="100"></TextBlock>
+            <TextBox Name="tbxScoreId" Grid.Row="4" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0" IsReadOnly="True" Foreground="Black" MinWidth="280" InputScope="Number"></TextBox>
             <StackPanel  Grid.Row="3" Grid.Column="0" Orientation="Horizontal" Grid.ColumnSpan="2" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,30,0,0"></StackPanel>
             <StackPanel  Grid.Row="4" Grid.Column="0" Orientation="Horizontal" Grid.ColumnSpan="2" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,30,0,0"></StackPanel>
-            <TextBlock Name="tblErrorMessage" Grid.ColumnSpan="2" Grid.Row="5" Grid.RowSpan="6" Grid.Column="0" Text="" VerticalAlignment="Center" FontSize="20" HorizontalAlignment="Center" Margin="20,0,0,0" Foreground="White" MinWidth="100" TextWrapping="Wrap" Visibility="Collapsed"></TextBlock>
-            <Button Name="btnSaveUserScore" Content="Save User Score" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnSaveUserScore_Click_1" Grid.ColumnSpan="2" Margin="-3,30,228,0" Grid.Row="4"></Button>
-            <Button Name="btnEditUserScore" Content="Edit User Score" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnEditUserScore_Click_1" Grid.Column="1" Margin="59,30,13,0" Grid.Row="4"></Button>
-            <Button Name="btnLeaderBoard" Content="Leaderboard" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnLeaderBoard_Click_1" Grid.ColumnSpan="2" Margin="129,108,131,0" Grid.Row="4"></Button>
+            <TextBlock Name="tblErrorMessage" Grid.ColumnSpan="2" Grid.Row="6" Grid.RowSpan="6" Grid.Column="0" Text="" VerticalAlignment="Center" FontSize="20" HorizontalAlignment="Center" Margin="20,0,0,0" Foreground="White" MinWidth="100" TextWrapping="Wrap" Visibility="Collapsed"></TextBlock>
+            <Button Name="btnSaveUserScore" Content="Save User Score" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnSaveUserScore_Click_1" Grid.ColumnSpan="2" Margin="-3,78,228,0" Grid.Row="4"></Button>
+            <Button Name="btnEditUserScore" Content="Edit User Score" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnEditUserScore_Click_1" Grid.Column="2" Margin="65,78,7,0" Grid.Row="4"></Button>
+            <Button Name="btnLeaderBoard" Content="Leaderboard" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnLeaderBoard_Click_1" Grid.ColumnSpan="2" Margin="132,132,128,0" Grid.Row="4"></Button>
         </Grid>
     </Grid>
 

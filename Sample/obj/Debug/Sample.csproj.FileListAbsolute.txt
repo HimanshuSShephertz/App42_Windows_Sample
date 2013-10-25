@@ -74,3 +74,18 @@ C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\Samp
 C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\Sample.dll
 C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\Sample.pdb
 C:\Users\Ruchi\Desktop\app42_windows_1.7\app42_windows_1.7\Sample\obj\Debug\XapCacheFile.xml
+F:\Personal Repo\App42_Windows_Sample\Sample\Bin\Debug\ApplicationIcon.png
+F:\Personal Repo\App42_Windows_Sample\Sample\Bin\Debug\Background.png
+F:\Personal Repo\App42_Windows_Sample\Sample\Bin\Debug\Sample.dll
+F:\Personal Repo\App42_Windows_Sample\Sample\Bin\Debug\Sample.pdb
+F:\Personal Repo\App42_Windows_Sample\Sample\Bin\Debug\AppManifest.xaml
+F:\Personal Repo\App42_Windows_Sample\Sample\Bin\Debug\Sample.xap
+F:\Personal Repo\App42_Windows_Sample\Sample\Bin\Debug\App42_WINDOWS_API_1.8.pdb
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\App.g.i.cs
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\GameEntry.g.i.cs
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\LeaderBoard.g.i.cs
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\Sample.g.resources
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\Sample.dll
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\Sample.pdb
+F:\Personal Repo\App42_Windows_Sample\Sample\obj\Debug\XapCacheFile.xml

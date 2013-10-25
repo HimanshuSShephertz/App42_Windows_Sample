@@ -15,14 +15,14 @@ namespace Sample
 {
     public partial class LeaderBoard : PhoneApplicationPage,App42Callback
     {
-        
-        static ServiceAPI serviceApi = new ServiceAPI("e6d7c63afc8abe1739ef977363d608370ce56de49c6397ceb5910a1ff0c167b2", "bd4f6fbad9becc13e9c4cbbe50dfcf54b68b7f0d9fa94e7fa44a53418275b373");
+
+        static ServiceAPI serviceApi = new ServiceAPI("62f6b446a152a488b92a7cc27421e6ee105247a973246b2d528ca67f746004fc",
+            "6ee0b3f11115e55b92c3eab66a5a2a94197a27cea8e43f4239748a443214a312");
         ScoreBoardService scoreBoardService = serviceApi.BuildScoreBoardService();
         public delegate void UIcallbackEvent(IList<Game.Score> gList);
         public delegate void ShowExceptionCallbackEvent(String message);
         public LeaderBoard()
         {
-            serviceApi.SetBaseURL("http://", "localhost", 8082);
             InitializeComponent();
             tblErrorMessage.Visibility = Visibility.Collapsed;
             lbxScore.ItemsSource = App.mViewModel.mScores;
